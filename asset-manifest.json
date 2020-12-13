@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/beckme/static/css/main.edfa1764.chunk.css",
+    "main.js": "/beckme/static/js/main.f382f50b.chunk.js",
+    "main.js.map": "/beckme/static/js/main.f382f50b.chunk.js.map",
+    "runtime-main.js": "/beckme/static/js/runtime-main.0272ab8b.js",
+    "runtime-main.js.map": "/beckme/static/js/runtime-main.0272ab8b.js.map",
+    "static/css/2.a77cddac.chunk.css": "/beckme/static/css/2.a77cddac.chunk.css",
+    "static/js/2.12e0deb1.chunk.js": "/beckme/static/js/2.12e0deb1.chunk.js",
+    "static/js/2.12e0deb1.chunk.js.map": "/beckme/static/js/2.12e0deb1.chunk.js.map",
+    "index.html": "/beckme/index.html",
+    "precache-manifest.9471f7243ca8c01fa3e730c918dcbe9b.js": "/beckme/precache-manifest.9471f7243ca8c01fa3e730c918dcbe9b.js",
+    "service-worker.js": "/beckme/service-worker.js",
+    "static/css/2.a77cddac.chunk.css.map": "/beckme/static/css/2.a77cddac.chunk.css.map",
+    "static/css/main.edfa1764.chunk.css.map": "/beckme/static/css/main.edfa1764.chunk.css.map",
+    "static/js/2.12e0deb1.chunk.js.LICENSE.txt": "/beckme/static/js/2.12e0deb1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/beckme/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/beckme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0272ab8b.js",
+    "static/css/2.a77cddac.chunk.css",
+    "static/js/2.12e0deb1.chunk.js",
+    "static/css/main.edfa1764.chunk.css",
+    "static/js/main.f382f50b.chunk.js"
+  ]
+}
